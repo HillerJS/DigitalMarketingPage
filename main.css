@@ -1,0 +1,26 @@
+btn-color {
+	color: #1641FA
+}
+.navbar-light .navbar-nav .nav-link {
+    
+    color: white;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  
+    color: white;
+}
+.bg-primary, footer {
+    background: #1641FA;
+	color: white;
+	text-decoration: none;
+}
+h1.textoidea {
+    text-align: center;
+}
+.footer-links a {
+    color: white;
+	text-decoration: none;
+}
+.container {
+    margin-top: 116px;
+}
